@@ -1,2 +1,2 @@
 # Machine-LearningLab
-This contains all the Machine Learning Lab Assignments!
+This have all the Machine Learning Lab Assignments!
